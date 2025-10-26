@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MCU 蓝牙助手</string>
+    <string name="scan_devices">扫描设备</string>
+    <string name="dashboards">仪表盘</string>
+    <string name="terminal">串口终端</string>
+    <string name="add_widget">添加组件</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="send">发送</string>
+</resources>
